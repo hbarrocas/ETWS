@@ -1,6 +1,4 @@
-# ETWS
-
-Etienne's Toy Work Station
+## Etienne's Toy Work Station (ETWS)
 
 A minimalistic menu system created to launch functions that works around the idea of generating ASCII graphics.
 
